@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "vendaura",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
